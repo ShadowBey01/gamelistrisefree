@@ -1,6 +1,1 @@
-local Games = {
-  [283721918] = "https://raw.githubusercontent.com/ShadowBey01/risefree/refs/heads/main/risefree", -- Skywars
-  [189707] = "https://raw.githubusercontent.com/ShadowBey01/NaturalRisefree/refs/heads/main/suprisefree", -- Natural Disaster Survival
-}
-
-return Games
+print("gg")
